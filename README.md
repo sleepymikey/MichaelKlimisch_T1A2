@@ -20,7 +20,7 @@ Here are some highlights of my portfolio:
 *The main landing page of the portfolio showing the navigation and introductory section.*
 
 ![About Me Screenshot](/assets/Aboutme.png)
-*A glimpse of the portfolio section showcasing various projects.*
+*A glimpse of the about me section showcasing personal interests and qualification.*
 
 ## Sitemap
 
