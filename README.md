@@ -55,8 +55,5 @@ This portfolio is built with the following technologies:
 ---
 
 For any inquiries or suggestions, please contact me through the form on the website or at mikeklimisch@gmail.com.
-Link to GitHub: https://github.com/sleepymikey/MichaelKlimisch_T1A2.git
-Link to my Portfolio: https://sleepymikey.github.io/MichaelKlimisch_T1A2/
-
 
 Thank you for visiting my portfolio!
