@@ -19,7 +19,7 @@ Here are some highlights of my portfolio:
 ![Homepage Screenshot](/assets/Home.png)
 *The main landing page of the portfolio showing the navigation and introductory section.*
 
-![About Me Screenshot](/assets/AboutMe.png)
+![About Me Screenshot](/assets/Aboutme.png)
 *A glimpse of the portfolio section showcasing various projects.*
 
 ## Sitemap
