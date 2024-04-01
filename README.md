@@ -16,7 +16,7 @@ This portfolio website serves as a personal and professional showcase of my work
 
 Here are some highlights of my portfolio:
 
-![Homepage Screenshot](/assets/HomePage.png)
+![Homepage Screenshot](/assets/Home.png)
 *The main landing page of the portfolio showing the navigation and introductory section.*
 
 ![About Me Screenshot](/assets/AboutMe.png)
